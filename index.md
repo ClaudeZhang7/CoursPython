@@ -1,5 +1,6 @@
 ---
-layout: default
+title: "Cours sur le langage de programmation Python"
+css: styles.css
 ---
 
 # Python pour les Nuls (Oui toi la)
