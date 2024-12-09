@@ -1,3 +1,7 @@
+---
+title: "Cours sur le langage de programmation Python"
+css: styles.css
+---
 
 # Python pour les Nuls (Oui toi la)
 
@@ -303,7 +307,7 @@ else :
     neg = neg * -1
 ```
 
-Il est également d'utiliser des conditions au sein d'une affectation.
+Il est également possible d'utiliser des conditions au sein d'une affectation.
 
 ```python
 negatif = -7
