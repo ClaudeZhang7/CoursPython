@@ -894,13 +894,7 @@ Malheuresement pour toi, il est possible que tu es affaire à des exercices n'ay
 
 **Formule de la puissance d'un nombre par n :**
 
-$$
-\text{puissance}(x, n) =
-\begin{cases} 
-1 & \text{si } n = 0, \\
-x \times \text{puissance}(x, n-1) & \text{si } n > 0.
-\end{cases}
-$$
+![](formulePuissanceLatex.png)
 
 **4.2 Calculer la somme d'une liste**
 
