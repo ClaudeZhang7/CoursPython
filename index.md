@@ -1,5 +1,5 @@
 
-# Python pour les Nulls (Oui toi la)
+# Python pour les Nuls (Oui toi la)
 
 Je suggère que **Python** a été au préalable installé ainsi que son **gestionnaire de paquet (pip)**, pip est le gestionnaire qui permet de gérer les librairies/paquets.
 
